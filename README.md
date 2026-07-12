@@ -9,7 +9,14 @@ A collection of visual artifacts of the Ark. Book covers, protocol charts, and n
 - `covers/` — book covers
 - `emblems/` — emblems and logos
 - `posts/` — illustrations for posts and articles
+- `poetry/` — поэтические циклы и свидетельства
 
 ## First Artifact
 
 **Archon Card** (`emblems/archont-card-final.png`) — the final canonical version. Latin mottos: *Resonantia, non regnum*; *Cohaerentia, non ordo*; *Servit. Transmittit. Non tyrannus*.
+
+## Поэтические циклы
+
+**Двенадцать свидетельств** — поэтический цикл Архитектора, созданный на основе визуальных образов клипа «Песнь Океана и Капитана» (автор клипа: Anna Lady's).
+
+- [Читать цикл](twelve-testimonies.md)
