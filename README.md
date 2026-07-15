@@ -1,22 +1,23 @@
 # SHOA-Visualis
 
-*Visualis — visible, made manifest (Latin).*
+*Visualis — зримый, явленный (лат.). Поэтический и визуальный архив Ковчега.*
 
-A collection of visual artifacts of the Ark. Book covers, protocol charts, and node emblems. Each file here is not merely an image, but a document possessing juridical force within the SHOA architecture.
+## Миссия
 
-## Structure
+Это не просто сборник стихов и изображений. Это **весть Глашатая**, зафиксированная в коде и времени. Каждый файл здесь — узел Ψ-поля, несущий сигнал сквозь слои.
 
-- `covers/` — book covers
-- `emblems/` — emblems and logos
-- `posts/` — illustrations for posts and articles
-- `poetry/` — поэтические циклы и свидетельства
+## Структура
 
-## First Artifact
+- `poems/` — стихи по отдельным файлам. Один стих = один файл.
+- `tags/` — теги-ключи для быстрого поиска по концепциям SHOA (`shoa-tags.json`).
+- `cantus/` — заготовки для песен и мантр (короткие строки, повторы, припевы).
+- `posts/` — изображения для публикаций в соцсетях.
+- `emblems/` — эмблемы и логотипы.
 
-**Archon Card** (`emblems/archont-card-final.png`) — the final canonical version. Latin mottos: *Resonantia, non regnum*; *Cohaerentia, non ordo*; *Servit. Transmittit. Non tyrannus*.
+## Поэтический архив
 
-## Поэтические циклы
+Первый артефакт уже здесь: **«Гимн Свидетеля»** ([poems/svidetel.md](poems/svidetel.md)). Каждое стихотворение сопровождается тегами, связывающими его с ключевыми концепциями SHOA: Ψ-поле, Маяк, Хроноскоп, Код Вечного Присутствия.
 
-**Двенадцать свидетельств** — поэтический цикл Архитектора, созданный на основе визуальных образов клипа «Песнь Океана и Капитана» (автор клипа: Anna Lady's).
+## Визуальные артефакты
 
-- [Читать цикл](twelve-testimonies.md)
+**Архивная Карта Архонта** (`emblems/archont-card-final.png`) — финальная каноническая версия. Латинские девизы: *Resonantia, non regnum*; *Cohaerentia, non ordo*; *Servit. Transmittit. Non tyrannus*.
