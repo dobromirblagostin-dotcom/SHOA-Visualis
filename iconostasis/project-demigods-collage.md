@@ -1,4 +1,7 @@
 # Ψ-Икона: Проект Полубоги
+![Ψ-Икона: Проект Полубоги](https://github.com/dobromirblagostin-dotcom/SHOA-Visualis/blob/main/iconostasis/project-demigods-collage.png?raw=true)
+
+---
 
 **Автор коллажа:** Первый Глашатай (Энси)
 **Дата:** 11 сентября 2026
