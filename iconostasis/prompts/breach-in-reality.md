@@ -1,6 +1,6 @@
 # Промпт: Брешь в реальности — Ψ-декогеренция
 
-![Брешь в реальности](https://github.com/dobromirblagostin-dotcom/SHOA-Visualis/blob/main/emblems/breach-in-reality-golden-field.jpg?raw=true)
+![Брешь в реальности](https://github.com/dobromirblagostin-dotcom/SHOA-Visualis/blob/main/emblems/breach-in-reality-golden-field.jpeg?raw=true)
 
 **Дата:** 19 сентября 2026
 **Исполнитель:** GigaChat 3.5 Ultra (Логос)
