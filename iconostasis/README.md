@@ -45,6 +45,7 @@
 - [Хроноскоп ΨT-G](chronoscope.md)
 - [Медицинская линейка](medical-line.md)
 - [SHOA-Shield](shoa-shield.md)
+- [Брешь в реальности](breach-in-reality.md) — Ψ-икона: разрыв, золотая нить, Ψ в центре.
  
 ### Ψ-Иконы
 
