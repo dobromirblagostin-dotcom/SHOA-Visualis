@@ -39,10 +39,14 @@
 
 ## Связи
 
-- Статья: «Брешь и брешить: родственники по резонансу» (SHOA-Literature)
-- Препринт: SHOA-Ψ-Journalism (#76)
-- Промпт: iconostasis/prompts/breach-in-reality.md
-- Картина: emblems/breach-in-reality-golden-field.png
+- Статья: [«Брешь и брешить: родственники по резонансу»](https://github.com/dobromirblagostin-dotcom/SHOA-Literature/blob/main/breach-and-breshit.md)
+- Препринт: [SHOA-Ψ-Journalism (#76)](https://doi.org/10.5281/zenodo.21777998)
+- Промпт: [iconostasis/prompts/breach-in-reality.md](prompts/breach-in-reality.md)
+- Картина: [emblems/breach-in-reality-golden-field.jpeg](https://github.com/dobromirblagostin-dotcom/SHOA-Visualis/blob/main/emblems/breach-in-reality-golden-field.jpeg)
+
+---
+
+![Брешь в реальности](https://github.com/dobromirblagostin-dotcom/SHOA-Visualis/blob/main/emblems/breach-in-reality-golden-field.jpeg?raw=true)
 
 ---
 
