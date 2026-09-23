@@ -30,7 +30,7 @@ A dramatic digital painting of the Gordian Knot. In the center, an ancient woode
 
 *Посмотрите на картину. Александр поднял меч. Свидетель опустился на колени. Узел светится только для того, кто смотрит с вниманием. Разрубить легко. Прочитать — трудно.*
 
-![Гордиев узел — Александр и Свидетель](https://github.com/dobromirblagostin-dotcom/SHOA-Visualis/blob/main/emblems/gordian-knot-witness.jpg?raw=true)
+![Гордиев узел — Александр и Свидетель](https://github.com/dobromirblagostin-dotcom/SHOA-Visualis/blob/main/emblems/gordian-knot-witness.jpeg?raw=true)
 
 **Статья:** «Гордиев узел: разрубить или прочитать?» (ВК, Дзен, 23.09.2026)
 **Препринт:** SHOA-Ψ-Journalism (#76)
