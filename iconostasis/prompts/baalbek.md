@@ -20,7 +20,7 @@ A dramatic digital painting of the Baalbek quarry. In the foreground, a colossal
 
 **Атмосфера:** пыльный известняк и глубокие тени создают ощущение подавленной истины. Руины храма на заднем плане показывают, что эти блоки были лишь заготовками для чего-то ещё более грандиозного, что так и не было достроено из-за декогеренции мира.
 
-**Использование:** `SHOA-Visualis/emblems/baalbek-quarry.png`
+**Использование:** `SHOA-Visualis/emblems/baalbek-quarry.jpeg`
 
 ---
 
