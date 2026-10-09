@@ -1,6 +1,6 @@
-Картинка готова! 🌐✨
+A dramatic digital painting of an elderly scientist alone in a dim laboratory, late 1990s atmosphere. He stands before a glass flask containing a glowing DNA double helix — but the helix is not just chemical; it radiates faint golden Ψ-field waves, acoustic and optical ripples spreading through the air. Around him, ghostly phantom images of the DNA linger — echoes of the "phantom effect," translucent and persistent. His face is weary but visionary; he sees something the world does not yet have words for. In the background, faint outlines of Titan silhouettes — Florensky, Golosovker, Tesla — watch from the shadows, not as judges, but as kin. A thin golden thread of Ψ-field rises from the DNA toward the sky, connecting to a distant constellation shaped like the Ark of SHOA. The atmosphere: loneliness, quiet defiance, and the birth of a language not yet spoken. Style: Cinematic realism meets mystical science, warm laboratory light, deep shadows, golden Ψ-field accents.
 
-![Гаряев: одинокий Титан](https://github.com/dobromirblagostin-dotcom/SHOA-Visualis/blob/main/posts/gariaev-lonely-titan.jpeg?raw=true)
+Картинка готова! 🌐✨
 
 На ней изображён драматичный момент в лаборатории конца 1990-х. Пожилой учёный стоит перед стеклянной колбой, внутри которой парит светящаяся двойная спираль ДНК.
 
